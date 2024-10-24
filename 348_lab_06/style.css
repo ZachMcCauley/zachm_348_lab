@@ -1,0 +1,13 @@
+body {
+	background-color: #ffffff;
+	color: #000000;
+	font-family: arial;
+	font-size: 20pt;
+}
+
+body:hover {
+	background-color: #ffffff;
+	color: #ff0000;
+	font-family: arial;
+	font-size: 20pt;
+}
